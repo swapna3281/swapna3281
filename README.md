@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @swapna3281
-- 👀 I’m interested in software development roles
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-swapna3281/swapna3281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Swapna
+📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
+📊 Passionate about data analysis and data-driven decision-making.
+🐍 Learning Python to analyze, clean, and transform data.
+🗄️ Developing SQL skills to retrieve and explore data.
+📈 Exploring Power BI to create interactive dashboards and visualizations.
+📑 Improving my Excel skills for reporting and analysis.
+🌱 Continuously learning through practical exercises and projects.
+🎯 Working towards building a successful career as a Data Analyst.
